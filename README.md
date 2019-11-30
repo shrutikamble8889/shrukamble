@@ -1,1 +1,3 @@
 # shrukamble
+# python
+# jupyter notebook
